@@ -14,7 +14,7 @@
 ### About :
 A continuous Learner, an engineer with a background Web desiging and 3D works, but I am now deeply invested in the fields of data science. My goal is to use these technologies to automate minor tasks and solve common everyday problems. I am excited to use my skills and knowledge to further my understanding and expertise in the field and push my boundaries .
 
-<h3 align="left">Connect with me:</h3>
+***
 <p align="left">
 
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
