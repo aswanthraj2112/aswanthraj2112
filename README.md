@@ -12,7 +12,7 @@
 ***
 
 ### About :
-A continuous Learner, an engineer with a background Web desiging and 3D works, but I am now deeply invested in the fields of data science. My goal is to use these technologies to automate minor tasks and solve common everyday problems. I am excited to use my skills and knowledge to further my understanding and expertise in the field and push my boundaries .
+A continuous Learner, an engineer with a background in Web desiging and 3D works, but I am now deeply invested in the fields of data science. My goal is to use these technologies to automate minor tasks and solve common everyday problems. I am excited to use my skills and knowledge to further my understanding and expertise in the field and push my boundaries .
 
 ### Connect with me: 
 <a target="Linkedin" href="https://www.linkedin.com/in/aswanthraj2112/"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Portfolio" width="20" height="20"></img></a>
