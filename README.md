@@ -6,7 +6,7 @@
 ### I'm a Btech Computer Science Graduate (2021 Batch) 
 
 - 🔭 A Data Science Enthusiastic
-- 🌱 I’m currently learning **DEEP LEARNING | DATA SCIENCE**
+- 🌱 I’m currently learning **DATA SCIENCE**
 - 🌟 *Motivated by my curiosity and passion for learning new thing everyday*
 
 ***
